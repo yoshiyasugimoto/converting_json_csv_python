@@ -1,0 +1,4 @@
+"areas/action/label","areas/action/type","areas/action/content","areas/bounds/height","areas/bounds/width","areas/bounds/x","areas/bounds/y","chatBarText","name","selected","size/height","size/width"
+"uri_home","uri","https://xxx/",400,400,0,400,"てすと","test",True,800,1200
+"message","message","メッセ",400,400,400,400,"","","","",""
+"uri_home","uri","https://xxx/",400,400,800,400,"","","","",""

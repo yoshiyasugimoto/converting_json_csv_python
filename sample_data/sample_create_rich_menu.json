@@ -1,0 +1,50 @@
+{
+  "areas": [
+    {
+      "action": {
+        "label": "uri_home",
+        "type": "uri",
+        "uri": "https://xxx/"
+      },
+      "bounds": {
+        "height": 400,
+        "width": 400,
+        "x": 0,
+        "y": 400
+      }
+    },
+    {
+      "action": {
+        "label": "message",
+        "type": "message",
+        "text": "メッセ"
+      },
+      "bounds": {
+        "height": 400,
+        "width": 400,
+        "x": 400,
+        "y": 400
+      }
+    },
+    {
+      "action": {
+        "label": "uri_home",
+        "type": "uri",
+        "uri": "https://xxx/"
+      },
+      "bounds": {
+        "height": 400,
+        "width": 400,
+        "x": 800,
+        "y": 400
+      }
+    }
+  ],
+  "chatBarText": "てすと",
+  "name": "test",
+  "selected": true,
+  "size": {
+    "height": 800,
+    "width": 1200
+  }
+}
