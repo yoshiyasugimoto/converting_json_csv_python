@@ -1,5 +1,4 @@
 import json
-import os
 import csv
 
 import argparse
